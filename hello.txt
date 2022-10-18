@@ -13,4 +13,4 @@ hello Microsoft! hello git!
 hello Microsoft! hello git!
 hello Microsoft! hello git!master git
 hello Microsoft! hello git!
-hello Microsoft! hello git!
+hello Microsoft! hello git! hot-fix test
