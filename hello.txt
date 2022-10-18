@@ -12,5 +12,5 @@ hello Microsoft! hello git!
 hello Microsoft! hello git!
 hello Microsoft! hello git!
 hello Microsoft! hello git!
-hello Microsoft! hello git!
 hello Microsoft! hello git! hot-fix test
+hello Microsoft! hello git!
